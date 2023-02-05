@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="essai.js"></script>
+    <title>Index</title>
+</head>
+<body>
+   <H1>Bienvenue dans ce monde du JDR, ou je vous propose une petite aventure!  </H1>
+    <p>
+    Héhé, en réalité, je vous en propose plusieurs ! 
+   </p> 
+
+
+
+  
+   
+   
+
+<div class="imagesindex"> <img src="images/jdrimageindex.jpg" alt="hello" height="350" width="550">   <figcaption>
+   Un JDR traditionnel, où vous incarnez le personnage principal ! 
+ </figcaption></div>
+<div class="imagesindex"> <img src="images/reinefourmi1.jpg" alt="Entrez dans ce monde du JDR" height="350" width="550">  <figcaption>
+    Un JDR peu commun, où vous incarnez une fourmi Reine ! 
+ </figcaption> </div>
+<div class="imagesindex"> <img src="images/womanjdrsexy.jpg" alt="Entrez dans ce monde du JDR" height="350" width="550">  <figcaption>
+    Un JDR peu commun érotique, où vous incarnez une femme ! 
+ </figcaption> </div>
+   
+</body>
+</html>
